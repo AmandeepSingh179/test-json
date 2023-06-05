@@ -1,0 +1,48 @@
+{
+    "success": true,
+    "data": {
+        "sku": {
+            "id": "0bfb1d16-f090-58aa-8abe-20639091d3e0",
+            "booking_type": 1,
+            "sku": 6,
+            "source_warehouse": null,
+            "source_warehouses": [
+                {
+                    "label": "Main Warehouse",
+                    "value": 1
+                }
+            ],
+            "source_area": null,
+            "source_areas": [
+                {
+                    "label": "Standard",
+                    "value": 1
+                }
+            ],
+            "source_place": null,
+            "destination_warehouse": null,
+            "destination_area": null,
+            "destination_place": null,
+            "pu_booking_quantity": null,
+            "different_pu": null,
+            "price": null,
+            "batch": null,
+            "booking_comment": null,
+            "booking_quantity": null,
+            "quantity_per_pu": null,
+            "booking_date": null,
+            "stock_source_warehouse": null,
+            "stock_source_warehouse_after_booking": null,
+            "stock_destination_warehouse": null,
+            "stock_destination_warehouse_after_booking": null,
+            "isNew": true,
+            "booking_order_id": "new",
+            "source_places": [
+                {
+                    "label": "1-11A",
+                    "value": 11
+                }
+            ]
+        }
+    }
+}
